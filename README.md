@@ -6,4 +6,4 @@ I also work on many side projects, such as solving games 🎮 with machine learn
 
 Feel free to explore 👨‍💻 and reach out if you have questions! 💬
 
-- Odin
+– Odin
